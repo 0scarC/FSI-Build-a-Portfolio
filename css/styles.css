@@ -1,0 +1,36 @@
+body {
+    background-image: url(http://place-puppy.com/200x200);
+    background-size: cover;
+    background-color: rgba(140, 52, 15, 0.7);
+    text-align: center;
+}
+h1 {
+    color: #006400;
+}
+h2 {
+    color:rgb(19, 121, 58);
+}
+h3 {
+    color: #ffffff;
+    background-color: rgb(80, 70, 70);
+}
+p {
+    color: rgb(167, 37, 14);
+}
+.procrastination {
+    color: #0000ff;
+    text-decoration-color: #031086;
+    text-decoration-line: underline overline;
+    text-decoration-style: double;
+}
+img {
+    border-color:rgb(131, 15, 15);
+    border-width: 10px;
+    border-style: solid;
+    border-radius: 15px;
+}
+ul {
+    color:rgb(131, 15, 15);
+    position: relative;
+    left: -22px;
+}
